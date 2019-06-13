@@ -1,2 +1,2 @@
 # QuieroSerPoeta
-Plagioo de una poesia
+Plagio de una poesia
